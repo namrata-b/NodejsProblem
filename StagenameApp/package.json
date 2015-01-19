@@ -1,0 +1,17 @@
+{
+  "name": "StagenameApp",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Assignment"
+  ],
+  "author": "Namrata Bandekar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
+}
