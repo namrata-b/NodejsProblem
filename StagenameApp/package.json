@@ -9,6 +9,10 @@
   "keywords": [
     "Assignment"
   ],
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/namrata-b/NodejsProblem.git"
+  },
   "author": "Namrata Bandekar",
   "license": "ISC",
   "dependencies": {
